@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(29, 163, 140);
+  }
+  img {
+    width: 200px;
+    border-radius:190px;
+    float:bottom;
+    margin-right: 500px;
+    
+  }
+  .username {
+    float:middle; 
+    font-weight:bold;
+    margin: top 100px;
+  }
